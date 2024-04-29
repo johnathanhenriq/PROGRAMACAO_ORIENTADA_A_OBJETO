@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class CalculoTrigonometrico {
 
 
-
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
